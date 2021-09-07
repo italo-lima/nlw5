@@ -1,0 +1,6 @@
+node/node_modules
+node/yarn.lock
+
+podcastr/node_modules
+podcastr/yarn.lock
+podcastr/.next
